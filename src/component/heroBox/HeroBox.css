@@ -1,0 +1,21 @@
+.heroBoxcontainer{
+width: 250px;
+background-color: #fff;
+border-radius:77% 23% 44% 56% /51% 63% 37% 49% ;
+margin: auto;
+}
+.heroboxheader{
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.heroboxheader .heroboxTittel{
+    padding-right: 10px;
+    font-size: 30px;
+
+}
+.heroBoxcontainer .heroboxcount{
+font-size: 40px ;
+font-weight: bold;
+text-align: center;
+}

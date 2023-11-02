@@ -1,0 +1,7 @@
+img{
+    width: 100%;
+   border: 1px solid gray;
+   border-radius: 15px;
+   padding-left: 0 30px;
+position: sticky;
+}

@@ -1,0 +1,35 @@
+footer{
+  
+background-color: #eee; 
+
+}
+
+.footer-right{
+  float: right !important ;
+  font-size: small;
+  text-align: center;
+}
+
+
+.footer-right p:hover{
+background-color: lightgrey;
+}
+
+.footer-right h2{
+  font-weight: bold;
+}
+.footer-center{
+  font-weight: bold;
+  text-align: center;
+}
+.centerStyle{
+  text-align: center;
+}
+ .nav-link:hover{
+  background-color: lightgray;
+}
+
+.footer-left{
+  text-align:end;
+  margin-top: 10%;
+}

@@ -1,0 +1,31 @@
+.card{
+    border: none;
+    box-shadow: rgba(46, 195, 240, 0.3) 4px 4px, rgba(46, 195, 240, 0.2) 8px 8px, rgba(46, 195, 240, 0.1) 12px 12px, rgba(46, 195, 240, 0.05) 16px 16px, rgba(46, 195, 240, 0.001) 20px 20px;
+    transition: all .5s;
+}
+.card:hover{
+    scale: 1.05;
+
+}
+
+.card-text{
+    text-align: justify;
+    color: rgb(59, 59, 59);
+}
+.read-more span{
+    margin-left:5px;
+    color: rgb(235, 193, 57);
+}
+
+.read-more :hover{
+    cursor: pointer;
+    color: #f54980 ;
+}
+.card-footer{
+    color: #7a7979 !important;
+}
+
+.card a{
+     text-decoration: none;
+     color: #484848;
+}
